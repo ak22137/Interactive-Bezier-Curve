@@ -1,5 +1,6 @@
 # Interactive Bézier Curve with Physics & Sensor Control
 ![Beiziers curve](https://github.com/user-attachments/assets/b9192e97-4fd6-4d9d-8810-dd93e674f40a)
+
 A real-time interactive visualization of a cubic Bézier curve with spring-damped physics, responding to mouse movement (web) with tangent vector visualization.
 
 ## 🎯 Features
